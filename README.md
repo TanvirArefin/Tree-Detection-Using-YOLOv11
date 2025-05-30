@@ -22,7 +22,7 @@ pip install ultralytics roboflow opencv-python numpy matplotlib
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/tree-detection-yolov11.git
+git clone https://github.com/TanvirArefin/Tree-Detection-Using-YOLOv11.git
 cd tree-detection-yolov11
 ```
 
